@@ -25,3 +25,7 @@ This repository contains a collection of projects / apps integrated with Dify se
 - [haoyuhu/dify-client-python](https://github.com/haoyuhu/dify-client-python) - This Python package provides a convenient and powerful interface to interact with the Dify API, enabling developers to integrate a wide range of features into their applications with ease.
 - [Pitayafruits/springboot-dify-api](https://github.com/Pitayafruits/springboot-dify-api) - 基于SpringBoot调用Dify服务的Api
 - [simonetoo/dify-php](https://github.com/simonetoo/dify-php) - This is the PHP SDK for the Dify API, which allows you to easily integrate Dify into your PHP applications.
+
+## Enterprise / Multi-Tenancy
+
+- [deeparchi-ai/maea-tenant-gateway](https://github.com/deeparchi-ai/maea-tenant-gateway) — Enterprise multi-tenant isolation middleware for Dify. Adds JWT/OIDC auth, per-tenant rate limiting, JSON audit logging, and Prometheus metrics as a lightweight reverse proxy layer.
